@@ -7,28 +7,28 @@ This project aims to reconstruct 3D meshes from 2D images using a series of Jupy
 ## Notebooks
 
 1. **main_0_data_analysis.ipynb**
-   - Description: This notebook performs data analysis on the input dataset.
+- This notebook performs data analysis on the input dataset.
 
 2. **main_1_data_plot.ipynb**
-   - Description: This notebook generates various plots to visualize the data.
+- This notebook generates various plots to visualize the data.
 
 3. **main_2_video_to_image.ipynb**
-   - Description: This notebook extracts frames from a video and converts them into images.
+- This notebook extracts frames from a video and converts them into images.
 
 4. **main_3_remove_bg.ipynb**
-   - Description: This notebook removes the background from the images.
+- This notebook removes the background from the images.
 
 5. **main_4_deblur.ipynb**
-   - Description: This notebook deblurs the images to enhance their quality.
+- This notebook deblurs the images to enhance their quality.
 
 6. **main_5_2D_to_3D.ipynb**
-   - Description: This notebook reconstructs 3D meshes from the 2D images.
+- This notebook reconstructs 3D meshes from the 2D images.
 
 7. **main_6_volume_calculation.ipynb**
-   - Description: This notebook calculates the volume of the reconstructed 3D meshes.
+- This notebook calculates the volume of the reconstructed 3D meshes.
 
 8. **main_7_postprocessing.ipynb**
-   - Description: This notebook performs postprocessing on the 3D meshes to refine them.
+- This notebook performs postprocessing on the 3D meshes to refine them.
 
 
 ## Getting Started
