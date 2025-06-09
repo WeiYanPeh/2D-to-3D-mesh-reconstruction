@@ -65,10 +65,12 @@ To get started with this project, clone the repository and open the Jupyter note
 
 ## Installation
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/WeiYanPeh/2D-to-3D-mesh-reconstruction.git
-   cd 2D-to-3D-mesh-reconstruction
-   ```
+   
+```bash
+git clone https://github.com/WeiYanPeh/2D-to-3D-mesh-reconstruction.git
+cd 2D-to-3D-mesh-reconstruction
+```
+<br>
 
 2. Download and install various libraries:
 - Directly required: OpenMVG, OpenMVS, COLMAP, VGGSFM, MVE
