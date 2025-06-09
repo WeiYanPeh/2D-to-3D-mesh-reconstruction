@@ -73,7 +73,12 @@ cd 2D-to-3D-mesh-reconstruction
 <br>
 
 2. Download and install various libraries:
-- Directly required: OpenMVG, OpenMVS, COLMAP, VGGSFM, MVE
+- Directly required:
+    - OpenMVG [Link OpenMVG](https://github.com/openMVG/openMVG)
+    - OpenMVS [Link OpenMVS](https://github.com/cdcseacave/openMVS)
+    - COLMAP [Link COLMAP](https://github.com/colmap/colmap)
+    - VGGSFM [Link VGGSFM](https://github.com/facebookresearch/vggsfm)
+    - MVE [Link MVE](https://github.com/simonfuhrmann/mve)
 - Indirectly required: 
     - ceres-bin: [Link ceres-bin](http://ceres-solver.org/installation.html)
     - eigen: [Link eigen](https://github.com/eigen-mirror/eigen)
