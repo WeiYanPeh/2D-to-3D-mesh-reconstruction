@@ -1,0 +1,5 @@
+# Exclude the 'model' folder
+model/
+
+# Exclude the 'vggsfm' folder
+vggsfm/
