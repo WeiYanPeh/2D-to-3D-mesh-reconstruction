@@ -2,3 +2,7 @@
 model/
 vggsfm/
 .hydra/
+
+*.ppt
+*.pptx
+*.pdf
