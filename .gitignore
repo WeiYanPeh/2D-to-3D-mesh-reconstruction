@@ -1,7 +1,7 @@
 # Exclude the folder
 model/
-# vggsfm/
 .hydra/
+# vggsfm/
 
 *.ppt
 *.pptx
