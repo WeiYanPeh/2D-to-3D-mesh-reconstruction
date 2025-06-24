@@ -19,3 +19,5 @@ opencv-python
 open3d
 plyfile
 pyntcloud
+
+meshlib
