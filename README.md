@@ -1,8 +1,11 @@
 
-# Project Title: 2D to 3D Mesh Reconstruction
+# Project Title: 2D to 3D Mesh Reconstruction (3D Reconstruction from 2D Images for Peripheral Edema Analysis)
 
 ## Description
-This project aims to reconstruct 3D meshes from 2D images using a series of Jupyter notebooks. Each notebook focuses on a specific step in the process, from data analysis to postprocessing.
+- This project aims to reconstruct 3D meshes from 2D images. 
+- Each steps are performed individually in each notebook, from data analysis to postprocessing.
+- The project is done as a collaboration with Eli Lilly (LCCP), NUHS, and CADENCE.
+
 
 ## Notebooks
 
@@ -10,7 +13,6 @@ This project aims to reconstruct 3D meshes from 2D images using a series of Jupy
 - main_0_data_analysis.ipynb
     - Performs data analysis on the input dataset.
 <br>
-
 
 **2. Plot data for visualizations**
 - main_1_data_plot.ipynb
@@ -67,3 +69,7 @@ To get started with this project, clone the repository and open the Jupyter note
    git clone https://github.com/WeiYanPeh/2D-to-3D-mesh-reconstruction.git
    cd 2D-to-3D-mesh-reconstruction
    ```
+
+2. Download and install various libraries:
+- Directly required: OpenMVG, OpenMVS, COLMAP, VGGSFM, MVE
+- Indirectly required: ceres-bin, eigen, glog, LightGLue (VGGSFM), minieigen, openexr, rapidjson, sphinx, vcglib, viser
