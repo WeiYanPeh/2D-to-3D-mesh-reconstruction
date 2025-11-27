@@ -59,7 +59,7 @@
 To get started with this project, clone the repository and open the Jupyter notebooks in the order listed above.
 
 ## Prerequisites
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook
 - Required libraries (listed in each notebook)
 
@@ -74,4 +74,14 @@ cd 2D-to-3D-mesh-reconstruction
 
 2. Download and install various libraries:
 - Directly required: OpenMVG, OpenMVS, COLMAP, VGGSFM, MVE
-- Indirectly required: ceres-bin, eigen, glog, LightGLue (VGGSFM), minieigen, openexr, rapidjson, sphinx, vcglib, viser
+- Indirectly required: 
+    - ceres-bin: [Link ceres-bin](http://ceres-solver.org/installation.html)
+    - eigen: [Link eigen](https://github.com/eigen-mirror/eigen)
+    - glog: [Link glog](https://github.com/google/glog)
+    - LightGLue (VGGSFM): [Link LightGLue](https://github.com/cvg/LightGlue)
+    - minieigen: [Link minieigen](https://github.com/eudoxos/minieigen)
+    - openexr: [Link openexr](https://github.com/AcademySoftwareFoundation/openexr)
+    - rapidjson: [Link rapidjson](https://rapidjson.org/)
+    - sphinx: [Link sphinx](https://github.com/sphinx-doc/sphinx)
+    - vcglib: [Link vcglib](https://github.com/cnr-isti-vclab/vcglib)
+    - viser: [Link viser](https://github.com/nerfstudio-project/viser)
