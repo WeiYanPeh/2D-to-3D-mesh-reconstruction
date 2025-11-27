@@ -20,4 +20,4 @@ open3d
 plyfile
 pyntcloud
 
-meshlib
+# meshlib
