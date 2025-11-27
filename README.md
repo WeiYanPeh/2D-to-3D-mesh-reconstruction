@@ -7,7 +7,10 @@
 - The project is done as a collaboration with Eli Lilly (LCCP), NUHS, and CADENCE.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e4d416dfebbc4937a2d332377cdf80639a343e36
 ## Notebooks
 
 **1. EDA of input data**
