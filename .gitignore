@@ -1,5 +1,4 @@
-# Exclude the 'model' folder
+# Exclude the folder
 model/
-
-# Exclude the 'vggsfm' folder
 vggsfm/
+.hydra/
